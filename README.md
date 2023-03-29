@@ -6,7 +6,7 @@ In this project, we will create the solution for two exercises.
 
 ## Environment
 We find below the necessary environment to create the example:
-- JDK 15 or higher;
+- JDK 19 or higher;
 - IDE of your choice;
 - Maven;
 - Lombok.
