@@ -6,9 +6,7 @@ In this project, we will create the solution for two exercises.
 
 ## Environment
 We find below the necessary environment to create the example:
-- JDK 15 or higher
-- IDE of your choice 
-- Maven
-
-## Run program via terminal
-- `./mvnw spring-boot:run`
+- JDK 15 or higher;
+- IDE of your choice;
+- Maven;
+- Lombok.
