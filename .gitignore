@@ -18,7 +18,8 @@ bin
 .project
 .workspace
 .settings				  
-# Maven #	
+# Maven #
+.mvn	
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
